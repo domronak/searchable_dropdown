@@ -112,7 +112,7 @@ DropdownSearch<UserModel>(
 ),
 ```
 
-## customize Search Mode
+## Customize Search Mode
 ```dart
 DropdownSearch<UserModel>(
   mode: Mode.BOTTOM_SHEET,
